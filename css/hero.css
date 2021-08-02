@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Noto+Sans+JP:wght@700&family=PT+Serif:wght@700&family=Roboto+Slab&family=Roboto:wght@700&display=swap');
+body{
+	margin: 0;
+}
+header{
+	background-color: black;
+	text-align: center;
+	padding-top:30px;
+	padding-bottom: 50px;
+}
+header img{
+	border-radius: 150px;
+	width: 300px;
+}
+h3{
+	<font-style: bold;
+}
+h1{
+	font-size: 60px;
+}
+h2{
+	font-family: 'Noto Sans JP', sans-serif;
+	font-weight: 700;
+}
+p{
+
+}
+#main{
+	max-width: 800px;
+	margin: auto;
+}
+#main img{
+	max-width: 100%;
+}
+#main-2{
+	max-width: 800px;
+	margin: auto;
+}
+#main-2 img{
+	max-width: 5vw;
+	max-height: 5vw;
+}
+.ability-container {
+	display: flex;
+	/*flex-direction:  column;*/
+}
+#text-1{
+	padding-left: 10px;
+}
+.ability-name-h {
+	margin: 10px 10px;
+}
+.ability-name-p {
+	margin: 10 10px;
+}
+}
+.ability-name-p2 {
+	margin: 0 10px;
+}
+	
+
